@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=
+OutputPath=Outputs
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -175,6 +175,35 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=NixieIN14Socket.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Default Configuration\Outputs\BOM\BOM_PartType-NixieIN14Socket.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Outputs\Design Rule Check - NixieSocket.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Default Configuration\Outputs\ExportSTEP\NixieSocket.step
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -183,7 +212,12 @@ ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=0
-OutputJobsCount=0
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=NixieIN14Socket.OutJob
+
+[Generic_EDE]
+OutputDir=Outputs
 
 [OutputGroup1]
 Name=Netlist Outputs

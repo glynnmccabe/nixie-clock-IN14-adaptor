@@ -1,0 +1,40 @@
+Added Component: Designator=J?(Header 2.54mm 6x2 - Female)
+Added Component: Designator=NX?(IN-14 Nixie Tube)
+Added Component: Designator=R?(SMD-0805-RES)
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=R?-1
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=NX?-3
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=NX?-4
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=NX?-5
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_5 Pin=NX?-6
+Added Net: Name=NetJ?_5
+Added Pin To Net: NetName=NetJ?_6 Pin=J?-6
+Added Pin To Net: NetName=NetJ?_6 Pin=NX?-7
+Added Net: Name=NetJ?_6
+Added Pin To Net: NetName=NetJ?_7 Pin=J?-7
+Added Pin To Net: NetName=NetJ?_7 Pin=NX?-8
+Added Net: Name=NetJ?_7
+Added Pin To Net: NetName=NetJ?_8 Pin=J?-8
+Added Pin To Net: NetName=NetJ?_8 Pin=NX?-9
+Added Net: Name=NetJ?_8
+Added Pin To Net: NetName=NetJ?_9 Pin=J?-9
+Added Pin To Net: NetName=NetJ?_9 Pin=NX?-10
+Added Net: Name=NetJ?_9
+Added Pin To Net: NetName=NetJ?_10 Pin=J?-10
+Added Pin To Net: NetName=NetJ?_10 Pin=NX?-11
+Added Net: Name=NetJ?_10
+Added Pin To Net: NetName=NetJ?_11 Pin=J?-11
+Added Pin To Net: NetName=NetJ?_11 Pin=NX?-12
+Added Net: Name=NetJ?_11
+Added Pin To Net: NetName=NetNX?_1 Pin=NX?-1
+Added Pin To Net: NetName=NetNX?_1 Pin=R?-2
+Added Net: Name=NetNX?_1
+Added Class: Name=NixieSocket
